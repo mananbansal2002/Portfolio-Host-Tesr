@@ -18,5 +18,5 @@ if (process.env.NODE_ENV === "production") {
   );
 }
 
-const port = 3000;
+const port = 5500;
 app.listen(port, console.log(`server listing to port 5000 only`));
